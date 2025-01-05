@@ -5,3 +5,5 @@ Comparing the rankings of different schools can help students gain a more compre
 University ranking websites are a very useful resource that can provide practical information about universities, help students choose the right university and major for themselves, and help universities improve their reputation and attractiveness. Meanwhile, university ranking websites can provide universities with higher recognition and influence, thereby enhancing their recruitment and competitiveness.
 
 This code takes the authoritative "Best University Website" as an example, applies Python crawler technology to obtain website data, and uses Python visualization to analyze the obtained results
+
+![image](https://github.com/Chris-Zouchenyu/Who-is-the-best-University-in-China/blob/main/img.png)
